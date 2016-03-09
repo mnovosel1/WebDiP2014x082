@@ -1,0 +1,176 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12.03.2015., 09:48:02
+    Author     : mnovosel1
+*/
+
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 95%;
+}
+
+header {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: #ffffff;
+    
+    border-radius: 5px;
+    background-color: #e4433c;
+    background-size: 250px;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+    width: 100%;
+}
+
+nav#meni {
+    display: inline-block;    
+    padding: 5px 5px;
+    
+    width: 300px;
+    float: left;
+}
+
+#meni > ul {
+    list-style: none;
+    line-height: 1;
+    
+    margin: 0;
+    padding: 0;
+}
+
+#meni > ul li a, .meniActive {
+    display: block;
+    color: #e4433c;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color:  #eaeaea;
+    
+    padding: 11px 20px;
+    border-top-style: dotted;
+    border-width: 1px;
+    border-color: #000000; 
+    
+}
+
+#meni > ul li:first-child a, .meniActive {
+    border-top-style: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#meni > ul li:last-child a, .meniActive {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#meni > ul li a:hover, .meniActive {
+    background-color: #f23f37;
+    color: #ffffff;
+}
+
+section#sadrzaj {
+    padding: 5px;
+    margin-left: 10px;
+    width: 50%;
+    
+    float: left;
+}
+
+.opodaci {
+    float: right;
+}
+
+#greska {
+	color: red;
+	font-weight: bold;
+}
+
+form {
+    background-color: #ffc3a6;
+    text-align: left;
+    border-radius: 5px;
+    
+    padding: 5px;
+    margin: 4px;
+    width: 65%;
+}
+
+label {
+    text-align: left;
+    width: 150px;
+}
+
+input {
+    text-align: left; 
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 300px;
+}
+
+.radio {
+    clear:both;
+    width: auto;
+    margin-left: 15px;
+}
+
+.check {
+    width: auto;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+table {
+    width: 600px;
+    border: 1px solid gray;
+}
+
+th {    
+    background-color: #ffc3a6;
+}
+
+td {
+    padding: 0 5px;
+}
+
+footer {
+    background-color: #e4433c;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    clear: both;
+    padding: 1px;
+}
+
+footer > address > a:visited,
+footer > address > a {
+    color: #ffffff;
+    
+    width: 100%;
+}
+
+.gumb {
+    background-color: #ccc;
+    cursor: pointer;
+    
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+    width: 49%;
+}
