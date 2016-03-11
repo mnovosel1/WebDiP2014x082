@@ -6,11 +6,11 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Početna stranica</title>
+        <title>Prijava legalizacije</title>
 
         <meta charset="UTF-8" />
         <meta name="author" content="Marijo Novosel">
-        <meta name="application-name" content="Početna stranica">
+        <meta name="application-name" content="Prijava legalizacije">
         <meta name="description" content="Datum kreiranja: 12.03.2015.">
         
         <link rel="stylesheet" type="text/css" href="css/mnovosel1.css" />
@@ -22,16 +22,13 @@ and open the template in the editor.
     </head>
     <body>
         <header id="zaglavlje">
-            Marijo Novosel
+            Prijava legalizacije
         </header>
         <nav id="meni">
             <ul>
                 <li class="meniActive">Početna</li>
-                <li><a href="osobna.html">Osobna stranica</a></li>
-                <li><a href="registracija.html">Registracija</a></li>
-                <li><a href="prijava.html">Prijava</a></li>
-                <li><a href="korisnici.html">Korisnici</a></li>
-                <li><a href="http://www.foi.unizg.hr" target="_blank">FOI.web</a></li>
+                <li><a href="dokumentacija.html">Dokumentacija</a></li>
+                <li><a href="o_autoru.html">O autoru</a></li>
             </ul>
         </nav>
         <section id="sadrzaj">
