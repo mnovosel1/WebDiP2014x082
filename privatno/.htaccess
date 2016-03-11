@@ -1,1 +1,4 @@
-# zastititi
+AuthType Basic
+AuthName "Obavezna prijava"
+AuthUserFile "/var/www/WebDiP/2014_projekti/WebDiP2014x082/privatno/.htpasswd"
+Require valid-user
