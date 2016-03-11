@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ï»¿<!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -6,11 +6,11 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Poèetna stranica</title>
+        <title>PoÄetna stranica</title>
 
         <meta charset="UTF-8" />
         <meta name="author" content="Marijo Novosel">
-        <meta name="application-name" content="Poèetna stranica">
+        <meta name="application-name" content="PoÄetna stranica">
         <meta name="description" content="Datum kreiranja: 12.03.2015.">
         
         <link rel="stylesheet" type="text/css" href="css/mnovosel1.css" />
@@ -26,7 +26,7 @@ and open the template in the editor.
         </header>
         <nav id="meni">
             <ul>
-                <li class="meniActive">Poèetna</li>
+                <li class="meniActive">PoÄetna</li>
                 <li><a href="osobna.html">Osobna stranica</a></li>
                 <li><a href="registracija.html">Registracija</a></li>
                 <li><a href="prijava.html">Prijava</a></li>
@@ -51,7 +51,7 @@ and open the template in the editor.
                             <li><u>Suradnici:</u>
                               <ul>
                                   <li><a target="_top" href="http://www.foi.unizg.hr/djelatnici/">Novak Matija</a></li>
-                                  <li><a target="_top" href="http://www.foi.unizg.hr/djelatnici/jurica.seva">Dr. sc. Ševa Jurica</a></li>
+                                  <li><a target="_top" href="http://www.foi.unizg.hr/djelatnici/jurica.seva">Dr. sc. Å eva Jurica</a></li>
                                 </ul>
                             </li>
 
@@ -63,7 +63,7 @@ and open the template in the editor.
 
                             <li>Seminari: 15</li>
 
-                            <li>Laboratorijske vjebe: 30</li>
+                            <li>Laboratorijske vjeÅ¾be: 30</li>
 
                             <li>Obavezni na studiju: Informacijski sustavi</li>
 
@@ -71,11 +71,11 @@ and open the template in the editor.
 
                             <li>
                                     Cilj kolegija je upoznavanje studenata s elementima dizajna web stranica i razvoja web aplikacija. 
-                                    Predmetom se obrağuju glavni elementi koji èine pojedinaène sastavne komponente cjelovitog projektnog rješenja na web platformi. 
-                                    Predmet prati moguæe razine realizacije Web projekata tako da se studentima prua uvid u razlièite tehnološke moguænosti koje mogu primijeniti u konkretnim situacijama. 
-                                    Studenti tijekom praktiènog dijela kolegija rade vjebe kojima postepeno razvijaju pojedine gradive blokove kasnijih web stranica i aplikacija. 
-                                    Prezentacijom izabranih rješenja otvara se diskusija tijekom koje studenti mogu izraziti svoje mišljenje o dizajnu, dovršenosti i drugim dogovorenim kriterijima kvalitete, 
-                                    èime se potièe kritièko razmišljanje o tuğem i vlastitom rješenju
+                                    Predmetom se obraÄ‘uju glavni elementi koji Äine pojedinaÄne sastavne komponente cjelovitog projektnog rjeÅ¡enja na web platformi. 
+                                    Predmet prati moguÄ‡e razine realizacije Web projekata tako da se studentima pruÅ¾a uvid u razliÄite tehnoloÅ¡ke moguÄ‡nosti koje mogu primijeniti u konkretnim situacijama. 
+                                    Studenti tijekom praktiÄnog dijela kolegija rade vjeÅ¾be kojima postepeno razvijaju pojedine gradive blokove kasnijih web stranica i aplikacija. 
+                                    Prezentacijom izabranih rjeÅ¡enja otvara se diskusija tijekom koje studenti mogu izraziti svoje miÅ¡ljenje o dizajnu, dovrÅ¡enosti i drugim dogovorenim kriterijima kvalitete, 
+                                    Äime se potiÄe kritiÄko razmiÅ¡ljanje o tuÄ‘em i vlastitom rjeÅ¡enju
                             </li>
                           
                         </ul>     
@@ -86,11 +86,11 @@ and open the template in the editor.
                 <a href="http://validator.w3.org/check?uri=referer"><img src="img/validHTML.png" alt="" height="50" /></a>
                 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="img/validCSS.png" alt="" height="50" /></a>
                 <br />
-                Vrijeme potrebno za rješavanje aktivnog dokumenta: 2h <br />
-                Vrijeme potrebno za rješavanje cijelog rješenja: 22h <br />
+                Vrijeme potrebno za rjeÅ¡avanje aktivnog dokumenta: 2h <br />
+                Vrijeme potrebno za rjeÅ¡avanje cijelog rjeÅ¡enja: 22h <br />
             </p>
             <address>
-                <a href="mailto:mnovosel1@foi.hr">Pošalji email</a>
+                <a href="mailto:mnovosel1@foi.hr">PoÅ¡alji email</a>
             </address>
         </footer>
     </body>
