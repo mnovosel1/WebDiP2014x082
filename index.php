@@ -19,6 +19,7 @@ and open the template in the editor.
         <link rel="stylesheet" type="text/css" media="screen and (min-width:800px) and (max-width: 1000px)" href="css/mnovosel1_pc.css"/>
         <link rel="stylesheet" type="text/css" media="screen and (min-width:1000px)" href="css/mnovosel1_tv.css"/>
 
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     </head>
     <body>
         <header id="zaglavlje">
@@ -28,8 +29,16 @@ and open the template in the editor.
             <ul>
                 <li class="meniActive">Početna</li>
                 <li><a href="dokumentacija.html">Dokumentacija</a></li>
-                <li><a href="o_autoru.html">O autoru</a></li>
+                <li><a href="o_autoru.html">O autoru</a></li>            
             </ul>
+            <form class="form" method="post" action="#">
+              <label>Korisnik:</label>
+              <input type="text" name="email" id="email">
+              <label>Lozinka:</label>
+              <input type="password" name="password" id="password">
+              <button name="reg" id="regbtn">registracija</button>
+              <input type="button" name="login" id="login" value="prijava">
+            </form>
         </nav>
         <section id="sadrzaj">
             <article>

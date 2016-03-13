@@ -102,12 +102,12 @@ section#sadrzaj {
 
 form {
     background-color: #ffc3a6;
-    text-align: left;
+    text-align: right;
     border-radius: 5px;
     
-    padding: 5px;
+    padding: 15px;
     margin: 4px;
-    width: 65%;
+    #width: 65%;
 }
 
 label {
@@ -119,7 +119,7 @@ input {
     text-align: left; 
     margin-top: 3px;
     margin-bottom: 3px;
-    width: 300px;
+    #width: 300px;
 }
 
 .radio {
