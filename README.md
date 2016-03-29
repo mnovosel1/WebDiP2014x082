@@ -1,8 +1,8 @@
-Prijava legalizacije
-Kratak opis projekta:
+#Prijava legalizacije
+##Kratak opis projekta:
 Sustav omogućuje korisnicima slanje zahtjeva za legalizacijom, a građevinaru primanje zahtjeva i
 njihovu obradu.
-Uloge:
+##Uloge:
   Neregistrirani korisnik
   Registrirani korisnik
   Moderator / Građevinar
