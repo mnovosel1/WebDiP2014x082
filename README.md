@@ -30,6 +30,5 @@ njihovu obradu.
 * Može komentirati svog građevinara i davati ocjenu. Vidi za građevinara komentare ostalih korisnika.
 
 ####Neregistrirani korisnik
-* Vidi popis županija i odabirom županije vidi popis građevinara sa brojem koliko ima ukupno
-postavljenih videa, slika i dokumenata.
+* Vidi popis županija i odabirom županije vidi popis građevinara sa brojem koliko ima ukupno postavljenih videa, slika i dokumenata.
 To je korisnik koji nema korisnički račun na sustavu. Članom sustava može postati u slučaju registracije na sustav. Korisnik se smatra registriranim tek nakon aktivacije računa putem aktivacijske poruke elektroničke pošte (link za aktivaciju vrijedi 24 sata).
